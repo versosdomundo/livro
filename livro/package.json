@@ -1,0 +1,24 @@
+{
+  "name": "versosdomundo.github.io",
+  "version": "1.0.0",
+  "description": "Poesias de Eduan Lenine e Jota Teles",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/versosdomundo/versosdomundo.github.io.git"
+  },
+  "keywords": [
+    "poesia",
+    "gitbook",
+    "livro"
+  ],
+  "author": "Jota Teles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/versosdomundo/versosdomundo.github.io/issues"
+  },
+  "homepage": "https://github.com/versosdomundo/versosdomundo.github.io#readme"
+}
