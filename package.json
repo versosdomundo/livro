@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/versosdomundo/versosdomundo.github.io#readme",
   "dependencies": {
-    "gitbook": "^2.6.6"
+    "gitbook": "^2.6.6",
+    "gitbook-cli": "^1.0.1"
   }
 }

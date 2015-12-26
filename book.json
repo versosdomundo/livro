@@ -1,7 +1,11 @@
 {
     "structure": {
         "readme": "initial.md"
-    },   
+    },
     "title" : "Versos do mundo",
-    "description": "Poesias de Eduan Lenine e Jota Teles"
+    "description": "Poesias de Eduan Lenine e Jota Teles",
+    "plugins": ["styles-sass"],
+    "styles": {
+        "website": "./sass/website.sass"
+    }
 }
