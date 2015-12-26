@@ -1,7 +1,7 @@
 * [Introdução](initial.md)
 * [Será que eu sou o homem da metrópole?](poesias/sera-que-eu-sou-o-homem-da-metropole.md)
 * [Segunda feira](poesias/segunda-feira.md)
-* [Sp invisível](poesias/sp-invisivel.md)
+* [SP invisível](poesias/sp-invisivel.md)
 * [Le petit portrait social](poesias/le-petit-portrait-social.md)
 * [A mulher que eu amo](poesias/a-mulher-que-eu-amo.md)
 * [Natalia](poesias/natalia.md)
