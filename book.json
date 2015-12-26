@@ -4,6 +4,7 @@
     },
     "title" : "Versos do mundo",
     "description": "Poesias de Eduan Lenine e Jota Teles",
+    "language": "pt",
     "plugins": ["styles-sass", "disqus"],
     "pluginsConfig": {
         "disqus": {
@@ -11,6 +12,7 @@
         }
     },
     "styles": {
-        "website": "./sass/website.sass"
+        "website": "./sass/website.sass",
+        "pdf": "./sass/website.sass"
     }
 }
