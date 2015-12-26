@@ -13,6 +13,6 @@
     },
     "styles": {
         "website": "./sass/website.sass",
-        "pdf": "./sass/website.sass"
+        "pdf": "./sass/pdf.sass"
     }
 }
