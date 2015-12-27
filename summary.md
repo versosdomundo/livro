@@ -1,4 +1,5 @@
 * [Introdução](introducao.md)
+* [Venha comigo](poesias/venha-comigo.md)
 * [Será que eu sou o homem da metrópole?](poesias/sera-que-eu-sou-o-homem-da-metropole.md)
 * [Segunda feira](poesias/segunda-feira.md)
 * [SP invisível](poesias/sp-invisivel.md)
