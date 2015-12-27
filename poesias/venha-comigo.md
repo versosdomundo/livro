@@ -31,13 +31,6 @@ As 4 horas da manhã
 Confesso não encontrar motivo
 Para não enloquecer também
 
-    "Se eu não estivesse nu eu sairia correndo"
-    "E se não estivesse frio"
-    "Ah, se minha cama não fosse confortável!"
-
-Devo a esta maldita cama
-A culpa de tudo que queria fazer e não fiz
-
 Silêncio! Um instante
 Vou vestir minhas roupas
 Ligo o velho carro que fica na minha garagem
