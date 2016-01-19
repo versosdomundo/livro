@@ -18,7 +18,7 @@ Castrados aos 30, enterrados vivos aos 50
 Consumimos igrejas e religiões em sacos plásticos
 
 Nossos estômagos estão cheios de inconformidades
-Nossos agendas estão cheias de nomes
+Nossas agendas estão cheias de nomes
 Que contradição é esta em nos sentirmos vazios?
 
 Andamos seguindo rastros até um abismo
